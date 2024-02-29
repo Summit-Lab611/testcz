@@ -9,11 +9,11 @@
 }
 
 .quote .quote-quotation::before {
-  content: """;
+  content: '"';
 }
 
 .quote .quote-quotation::after {
-  content: """;
+  content: '"';
 }
 
 .quote .quote-attribution {
